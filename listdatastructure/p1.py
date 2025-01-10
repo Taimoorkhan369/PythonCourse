@@ -42,3 +42,11 @@ l2=[6,7,8,9,10]
 
 l3=l1+l2
 print(l3)
+
+# name="taimoor"
+
+# print(name.find("o",5))
+
+# name="My name is arham khan"
+# print(name.find('a',5))
+
