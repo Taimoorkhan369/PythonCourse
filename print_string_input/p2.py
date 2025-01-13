@@ -39,3 +39,9 @@ print(l)
 # b="ab"
 
 # print(f"type of b is {type(b)},type of a is {type(a)}")
+
+print(dir(str))
+
+l=["1","2","3"]
+
+l="my name is arham khan"
