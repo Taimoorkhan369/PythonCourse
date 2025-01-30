@@ -8,6 +8,7 @@ Sequential programming
 --input function
 --if else conditional statements
 --loops(for , while )
+--typecasting
 
 --data structures 
    -string 
