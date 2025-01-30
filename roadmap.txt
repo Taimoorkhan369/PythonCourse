@@ -1,0 +1,25 @@
+Python course 
+
+Sequential programming
+
+--Print Function
+--Fstring formatting 
+--operators 
+--input function
+--if else conditional statements
+--loops(for , while )
+
+--data structures 
+   -string 
+   -list
+   -tuples
+   -sets
+   -dict
+      define -> elemnts access -> builtin methods -> functions 
+
+Functional programming
+Object oriented programming 
+Files system
+Packages
+
+sequential -> functional -> OOP -> Modular -> Extreme programming
