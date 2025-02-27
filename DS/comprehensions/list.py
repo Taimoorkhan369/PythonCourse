@@ -41,7 +41,6 @@ print(main)
 
 def return_list():
     return [i for i in range(1,11)]
-
 def odd_checker(number):
     return number%2!=0
 def even_checker(number):

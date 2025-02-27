@@ -97,3 +97,6 @@ name=name.lower()
 char=char.lower()
 print(name,char)
 print(name.count(char))
+
+
+    
